@@ -1,0 +1,13 @@
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.csproj.AssemblyReference.cache
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.frmprincipal.resources
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.frmtabuada.resources
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.Properties.Resources.resources
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.csproj.GenerateResource.cache
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.csproj.CoreCompileInputs.cache
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\bin\Debug\JReNA.exe.config
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\bin\Debug\JReNA.exe
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\bin\Debug\JReNA.pdb
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.exe
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.pdb
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.frmcelsius.resources
+T:\1DS\abdala e lazaro\TPA\C#-visualstudio\JReNA\JReNA\obj\Debug\JReNA.frmcasa.resources
